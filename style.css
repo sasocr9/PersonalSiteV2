@@ -1,0 +1,18 @@
+body{
+    background-color: #E0CCBE;
+}
+.bar{
+    font-size: 1.5rem;
+    background-color: #EEEDEB;
+}
+.intro p{
+    font-size: 2rem;
+}
+.intro h1{
+    font-size: 3rem;
+}
+.story img{
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 0% 19%;
+}

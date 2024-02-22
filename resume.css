@@ -1,0 +1,28 @@
+body{
+    background-color: #E0CCBE;
+}
+.story{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.bar{
+    font-size: 1.5rem;
+    background-color: #EEEDEB;
+}
+.story img{
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 0% 19%;
+}
+.story p{
+    font-size: 2rem;
+}
+h2{
+    font-size: 3rem;
+}
+.story ul{
+    list-style: none;
+}
+.story li {
+    font-size: 1.5rem;
+}
